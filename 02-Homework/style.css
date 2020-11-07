@@ -1,0 +1,31 @@
+body{
+    background-color: lightgray;
+}
+.portfolioheaderpic {
+    max-width: 35%;
+    max-height: 35%;
+    float:left;
+    margin-right: 10px;
+}
+.aboutmebody {
+    margin-top: 10%;
+    margin-right: 5%;
+    margin-left: 5%;
+    margin-bottom: 10%;
+    padding: 5%;
+    background-color: white;
+    
+}
+.NavbarHeader {
+    background-color: blue;
+    color: white;
+}
+.bodyheader {
+    color: blue;
+}
+.bodytext {
+    padding: 5%
+}
+@media (min-width: 768px) {
+    max-width: 70;
+}
